@@ -1,10 +1,10 @@
 {
     "john gualt": {
         "non_merge": {
-            "commits": 1,
-            "added": 99,
+            "commits": 3,
+            "added": 131,
             "removed": 0,
-            "score": 30.099999999999998
+            "score": 40.5
         },
         "merge": {
             "commits": 0,
