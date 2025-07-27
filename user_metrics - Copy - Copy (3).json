@@ -1,0 +1,30 @@
+{
+    "john gualt": {
+        "non_merge": {
+            "commits": 3,
+            "added": 131,
+            "removed": 0,
+            "score": 40.5
+        },
+        "merge": {
+            "commits": 0,
+            "added": 0,
+            "removed": 0,
+            "score": 0.0
+        }
+    },
+    "john gualt 2": {
+        "non_merge": {
+            "commits": 1,
+            "added": 37,
+            "removed": 3,
+            "score": 12.1
+        },
+        "merge": {
+            "commits": 0,
+            "added": 0,
+            "removed": 0,
+            "score": 0.0
+        }
+    }
+}
